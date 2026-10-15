@@ -18,11 +18,11 @@
             </intent-filter>
         </activity>
 
-        <!-- 2. La actividad principal (MainActivity) -->
+
         <activity android:name=".MainActivity" android:exported="false" />
 
-        <!-- 3. La actividad de detalle (DetalleActivity) -->
-        <activity android:name=".DetalleActivity" android:exported="false"
+
+        <activity android:name=".DetalleActivity" android:exported="false"/>
     </application>
 
 </manifest>

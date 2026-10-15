@@ -12,6 +12,22 @@
         android:src="@mipmap/ic_launcher"
         android:layout_marginBottom="24dp" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="La ruta hacia la Montaña del Destino"
+        android:textColor="#ffff"
 
-
+        />
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminateTint="#FFC107"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Preparando provisiones para la Comunidad"
+        android:textColor="#AAAAAA"
+        />
 </LinearLayout>
